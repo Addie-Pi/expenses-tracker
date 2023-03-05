@@ -3,6 +3,7 @@ import './Cards.css'
 function Cards(props){
 
     const classes = 'card ' + props.className;
+    console.log(props)
 
     return (
       // props.children: children is reserve name

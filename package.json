@@ -35,5 +35,6 @@
       "last 1 safari version"
     ]
   },
-  "@babel/eslint-parser": "^7.5.4"
+  "@babel/eslint-parser": "^7.5.4",
+  "homepage": "https://addie-pi.github.io/expenses-tracker/"
 }
